@@ -8,6 +8,11 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
-
+title{
+   font-family: 'Dongle', sans-serif; 
+}
+body{
+   font-family: 'Nunito', sans-serif; 
+}
 /*font-family: 'Dongle', sans-serif; 
 font-family: 'Nunito', sans-serif;*\
