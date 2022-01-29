@@ -10,27 +10,27 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 h1{
    font-family: 'Dongle', sans-serif; 
-   font-size: 4.2em;
+   font-size: 4.0em;
 }
 body{
    font-family: 'Nunito', sans-serif; 
-   font-size: 4.1em;
+   font-size: 3.85em;
 }
 div.a{
    font-family: 'Dongle', sans-serif; 
-   font-size: 3em;
+   font-size: 2.75em;
 }
 div.b{
    font-family: 'Dongle', sans-serif; 
-   font-size: 2em;
+   font-size: 2.3em;
 }
 div.c{
    font-family: 'Nunito', sans-serif; 
-   font-size: 2em;
+   font-size: 1.7em;
 }
 div.d{
    font-family: 'Nunito', sans-serif; 
-   font-size: 1em;
+   font-size: 0.8em;
 }
 /*font-family: 'Dongle', sans-serif; 
 font-family: 'Nunito', sans-serif;*\
