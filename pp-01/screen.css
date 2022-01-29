@@ -10,19 +10,19 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 h1{
    font-family: 'Dongle', sans-serif; 
-   font-size: 4em;
+   font-size: 9em;
 }
 body{
    font-family: 'Nunito', sans-serif; 
-   font-size: 3em;
+   font-size: 7em;
 }
 div.a{
    font-family: 'Dongle', sans-serif; 
-   font-size: 2em;
+   font-size: 3em;
 }
 div.b{
    font-family: 'Dongle', sans-serif; 
-   font-size: 1em;
+   font-size: 2em;
 }
 div.c{
    font-family: 'Nunito', sans-serif; 
