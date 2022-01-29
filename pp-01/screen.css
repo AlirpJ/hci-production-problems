@@ -21,6 +21,14 @@ div.a{
    font-size: 2em;
 }
 div.b{
+   font-family: 'Dongle', sans-serif; 
+   font-size: 1em;
+}
+div.c{
+   font-family: 'Nunito', sans-serif; 
+   font-size: 2em;
+}
+div.d{
    font-family: 'Nunito', sans-serif; 
    font-size: 1em;
 }
