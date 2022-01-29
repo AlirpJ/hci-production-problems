@@ -10,6 +10,7 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 h1{
    font-family: 'Dongle', sans-serif; 
+   font-size: 15px;
 }
 body{
    font-family: 'Nunito', sans-serif; 
