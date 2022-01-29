@@ -16,5 +16,13 @@ body{
    font-family: 'Nunito', sans-serif; 
    font-size: 1em;
 }
+div.a{
+   font-family: 'Dongle', sans-serif; 
+   font-size: 2em;
+}
+div.b{
+   font-family: 'Nunito', sans-serif; 
+   font-size: 1em;
+}
 /*font-family: 'Dongle', sans-serif; 
 font-family: 'Nunito', sans-serif;*\
