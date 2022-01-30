@@ -23,7 +23,7 @@ div.a{
 }
 div.b{
    font-family: 'Dongle', sans-serif; 
-   font-size: 1.25em;
+   font-size: 1.21em;
 }
 div.c{
    font-family: 'Nunito', sans-serif; 
@@ -39,7 +39,7 @@ div.d{
 .pquote {
    float: left;
    width: 6em;
-   background: #ddf;
+   background: #3EB489;
    font-weight: bold;
    padding: 0.81em;
    margin: 0 6em 6em 0;
