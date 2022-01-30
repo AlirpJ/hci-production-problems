@@ -32,7 +32,23 @@ div.c{
 }
 div.d{
    font-family: 'Nunito', sans-serif; 
-   font-size: 0.69em;
+   font-size: 0.68em;
 }
+
+
+.pquote {
+   float: left;
+   width: 6em;
+   background: #ddf;
+   font-weight: bold;
+   padding: 0.81em;
+   margin: 0 6em 6em 0;
+}
+
+blockquote {
+   margin: 0; /* gets rid of the default blockquote margin */
+}
+
+
 /*font-family: 'Dongle', sans-serif; 
 font-family: 'Nunito', sans-serif;*\
