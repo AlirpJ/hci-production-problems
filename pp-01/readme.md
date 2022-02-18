@@ -1,3 +1,5 @@
+https://alirpj.github.io/hci-production-problems/pp-01/
+
 ## ITMD 362, Production Problem 01: Pairing Typefaces
 
 Let’s start with something fun: a typeface-pairing game.
