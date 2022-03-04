@@ -33,7 +33,7 @@ Small commits to your Production Problems repository that include:
 * Describe how you implemented that guideline in your sketch: Sketch contains a brief explanation of why users should sign up with an account
 
 * HCI Guideline Two (URL): Data Entry - required fields. Phone number is a required field but doesn't need to be! Also, there are several unnecessary fields that clutter the page. (https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/data-entry/)
-* Describe how you implemented that guideline in your sketch: Changed the data entry fields. Phone number is not required and suffix/prefix are removed. 
+* Describe how you implemented that guideline in your sketch: Changed the data entry fields. Phone number is not required and suffix/prefix are removed. Suffix/prefix are assumed to be a part of another page for account customization.
 
 * HCI Guideline Three (URL): Data Entry - choices. Under the signup in the page's footer, email newsletter and search are poorly formatted. Subscribe should be a button and search has text entry that looks like a page error. (https://developer.apple.com/design/human-interface-guidelines/ios/user-interaction/data-entry/)
 * Describe how you implemented that guideline in your sketch: Email newsletter subscribe was changed into a button and the search was not only redone, but also added to the menu tab on the left side 
