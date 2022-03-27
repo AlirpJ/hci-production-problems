@@ -56,9 +56,12 @@ strengths. Prior to creating the `self-intro` branch, be sure to pull from the r
 pull upstream main`) to get any other team members’ names and strengths. Add and commit your own
 work, and push to your own repository (`git push origin self-intro`).
 
-Copy and paste the URL of your pull request here: https://github.com/ITMD362-Team-BEJJ/project2/pull/1
+Copy and paste the URL of your pull request here: https://github.com/AlirpJ/project2/pull/1
 
 9. Finally, within your fork of the repository on GitHub, open up a pull request from your
 `self-intro` branch to `main` branch in the shared  repository. Each team member should review the
 pull request before it is merged, and then pull from the team repository to have a complete,
 up-to-date `README.md` file.
+
+
+https://github.com/ITMD362-Team-BEJJ/project2/pull/1
