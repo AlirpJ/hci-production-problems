@@ -43,8 +43,11 @@ second remote. Run `git remote add upstream` followed by the URL for your teamâ€
 Write or copy & paste the output of `git remote -v` from your copy of the forked repository here:
 
 origin  git@github.com:AlirpJ/project2.git (fetch)
+
 origin  git@github.com:AlirpJ/project2.git (push)
+
 upstream        https://github.com/ITMD362-Team-BEJJ/project2 (fetch)
+
 upstream        https://github.com/ITMD362-Team-BEJJ/project2 (push)
 
 8. Next, on a feature branch called `self-intro`, all team members should add their names to the
