@@ -16,8 +16,8 @@ for your first (and second) round of usability testing.
 
 * URLs for the usability checklists you’ve found:
 
-1.
-2.
+1. https://web.wsu.edu/2015/07/15/website-usability-checklist/
+2. https://html.com/blog/website-testing-usability-checklist/
 
 * Your team’s condensed ten-item, must-have usability checklist:
 
